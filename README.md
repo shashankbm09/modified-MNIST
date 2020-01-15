@@ -10,3 +10,6 @@ https://www.kaggle.com/c/modified-mnist/
 
 ## Dataset
 https://www.kaggle.com/c/modified-mnist/data
+
+## Report
+https://github.com/shashankbm09/modified-MNIST/blob/master/report.pdf
