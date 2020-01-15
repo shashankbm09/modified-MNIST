@@ -7,3 +7,6 @@ came out to 96.80%. This was achieved using a Resnet50 model.
 
 ## Kaggel competition
 https://www.kaggle.com/c/modified-mnist/
+
+## Dataset
+https://www.kaggle.com/c/modified-mnist/data
